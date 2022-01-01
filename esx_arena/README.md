@@ -1,7 +1,7 @@
 # esx_arena 🔫
 
 ## komendy
-- `jest blip!`, dostowanie aren blip.
+- `jest blip!`, hostowanie aren blip.
 - `/arena_host`, host the arena.
 - `/arena_exit`, exit the arena.
 
