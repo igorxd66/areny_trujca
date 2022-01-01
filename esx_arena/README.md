@@ -1,12 +1,7 @@
 # esx_arena 🔫
-Paintball arena for [FiveM](https://fivem.net//)!
 
-## Table of Contents
-- [Commands](#commands)
-- [Requirements](#requirements)
-- [Dependencies](#dependencies)
-
-## Commands
+## komendy
+- `jest blip!`, dostowanie aren blip.
 - `/arena_host`, host the arena.
 - `/arena_exit`, exit the arena.
 
